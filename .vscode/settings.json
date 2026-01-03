@@ -5,9 +5,9 @@
         "source.removeUnusedImports": "always",
         "source.organizeImports": "always"
     },
-    "editor.defaultFormatter": "prettier.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "typescript.tsdk": "node_modules\\typescript\\lib",
     "[typescriptreact]": {
-        "editor.defaultFormatter": "prettier.prettier-vscode"
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
 }
